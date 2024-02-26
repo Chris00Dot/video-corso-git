@@ -7,5 +7,4 @@ un buon piatto autunnale
 * riso
 * scalogno
 * funghi
-* brodo 
- 
+* brodo
